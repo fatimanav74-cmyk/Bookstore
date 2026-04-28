@@ -1,1 +1,2 @@
 # Bookstore
+Static Web Page
